@@ -4,7 +4,7 @@
 <div style="text-align: center;">
 <b>Fully editable code:</b><br>
 
-<img src="https://cdn.discordapp.com/attachments/889540966057390091/900873147149086731/image0.png">
+<img src="https://ibb.co/3WdHKJJ">
 </div>
 
 <br>
